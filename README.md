@@ -5,14 +5,17 @@
 #
 #URL's:
 #
-#Metodo GET: "/planet" lista tods os planetas presentes na lisa.
+#Metodo GET: 
+#	     "/planet" lista tods os planetas presentes na lisa.
 #            "/planet/id/{id}" lista um planeta da lista pelo seu id.
 #            "/planet/name/{name} lista um planeta pelo seu nome.
 #
-#Metodo Post: "/planet" adiciona um planet a lista.
+Metodo Post: 
+#	      "/planet" adiciona um planet a lista.
  #            "/planet/saves" adiciona varios planetas a lista.
  #
-#Metodo DELETE:"/planet" apaga um planeta da lista.
+#Metodo DELETE:
+#               "/planet" apaga um planeta da lista.
 #              "/planet/id/{id}" apaga um planeta da lista pelo id.
 #
               
