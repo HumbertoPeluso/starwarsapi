@@ -1,18 +1,22 @@
 # starwarsapi
-Uma API simples contendo alguns dados dos planetas do universo Star Wars, utilizando Java Spring Boot.
+#Uma API simples contendo alguns dados dos planetas do universo Star Wars, utilizando Java Spring Boot.
 
-Esta API foi criada, utilizando Java Spring Boot, IDE Netbeans v.8.2, banco de dados MYSQL e SO Linux Xubuntu 18.4.
-
-URL's:
-Metodo GET: "/planet" lista tods os planetas presentes na lisa.
-            "/planet/id/{id}" lista um planeta da lista pelo seu id.
-            "/planet/name/{name} lista um planeta pelo seu nome.
-Metodo Post: "/planet" adiciona um planet a lista.
-             "/planet/saves" adiciona varios planetas a lista.
-Metodo DELETE:"/planet" apaga um planeta da lista.
-              "/planet/id/{id}" apaga um planeta da lista pelo id.
+#Esta API foi criada, utilizando Java Spring Boot, IDE Netbeans v.8.2, banco de dados MYSQL e SO Linux Xubuntu 18.4.
+#
+#URL's:
+#
+#Metodo GET: "/planet" lista tods os planetas presentes na lisa.
+#            "/planet/id/{id}" lista um planeta da lista pelo seu id.
+#            "/planet/name/{name} lista um planeta pelo seu nome.
+#
+#Metodo Post: "/planet" adiciona um planet a lista.
+ #            "/planet/saves" adiciona varios planetas a lista.
+ #
+#Metodo DELETE:"/planet" apaga um planeta da lista.
+#              "/planet/id/{id}" apaga um planeta da lista pelo id.
+#
               
-Lista de planetas no formato JSon:
+#Lista de planetas no formato JSon:
 
 
 [
