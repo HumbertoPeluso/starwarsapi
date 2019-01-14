@@ -1,7 +1,7 @@
 # starwarsapi
 #Uma API simples contendo alguns dados dos planetas do universo Star Wars, utilizando Java Spring Boot.
 
-#Esta API foi criada, utilizando Java Spring Boot, IDE Netbeans v.8.2, banco de dados MYSQL e SO Linux Xubuntu 18.4.
+#Esta API foi criada, utilizando Java Spring Boot, IDE Netbeans v.8.2, banco de dados MYSQL(nome do banco: starwarsapi) e SO Linux Xubuntu 18.4.
 #
 #URL's:
 #
